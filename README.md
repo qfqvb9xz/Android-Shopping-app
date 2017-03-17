@@ -1,13 +1,13 @@
 # Android-Shopping-app
 
-##Functions:
+## Functions:
 * Databinding for the product page
 * Animation when floating action button clicked 
 * Using retrofit to handle your REST requests 
 * Using SQLite to store shopping cart data
 
 
-##Introduction:
+## Introduction:
 1. MainActivity
   * Use **Retrofit** handle REST requests
   * Validate internet connection and query result
